@@ -271,9 +271,16 @@ img {
         display: flex;
         align-items: center;
 
+        .tg {
+            width: 28px;
+            margin-top: 7px;
+        }
+
         @media (max-width: 1140px) {
             justify-content: center;
         }
+
+
 
         &>*+* {
             margin: 15px 0 0 30px;

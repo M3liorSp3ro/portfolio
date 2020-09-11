@@ -403,6 +403,11 @@ img {
           align-items: center;
 }
 
+.footer__icons .tg {
+  width: 28px;
+  margin-top: 7px;
+}
+
 @media (max-width: 1140px) {
   .footer__icons {
     -webkit-box-pack: center;
